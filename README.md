@@ -13,7 +13,7 @@ Technologies Used: Spring Boot, Python/Flask, NodeJs/Express, RabbitMQ, ElasticS
 DockerHub Repository for build images: https://hub.docker.com/u/aravindbharatha/
 
 Branches Details: Each microservice is treated as their own project.
-1) dev_aravind: SpringBoot Microservice handles the search component by querying an Elastic Serach cluster
+1) dev_aravind: SpringBoot Microservice handles the search component by querying an Elastic Search cluster
 2) devbranch_node_express_ms: Node/Express Microservices handles the login and sign up functionality
 3) python_flask_ms: Python microservice ressponsible for home screen data and recommendations for user
 4) dev_node_controller: Controller utilizing all the microservices written in Node JS
